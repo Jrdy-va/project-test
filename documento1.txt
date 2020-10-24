@@ -1,6 +1,2 @@
-mi nombre: es jordy villazana
-mi edad es : 27 años
-mi nacionalidad es: peruana
+version corregida
 
-hoy hablaremos de algo
-otra cosa que no se que es
