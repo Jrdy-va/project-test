@@ -1,22 +1,5 @@
-mi nombre es jordy
-y esto es un cambio
-as
-sdads
-sad
-asd
-asd
-asdaosdjasda
-asdkajhda
-dasd
-asd
-asda
-sd
-asd
-asd
-a
-sdasdaosdhalsdasd
-asd
-asd
-asd
-asdasdkjasd
+mi nombre: es jordy villazana
+mi edad es : 27 años
+mi nacionalidad es: peruana
+
 
