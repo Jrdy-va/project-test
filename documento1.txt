@@ -5,3 +5,4 @@ mi nacionalidad es: peruana
 este es el archivo final
 
 CORREGIDO, AHORA SI A PASAR
+FIX1, ahora si pasa
