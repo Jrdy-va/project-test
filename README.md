@@ -19,3 +19,10 @@ This project if git class
 - Autor: Jordy
 
 **Free Software, Hell Yeah!**
+
+**10%!**
+**50%**
+**70%**
+
+**100%**
+
