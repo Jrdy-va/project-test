@@ -12,6 +12,7 @@ This project if git class
 
 * otro punto
 * más puntos
+* Creado por un equipo de pruebas
 
 - Autor: Jordy
 
