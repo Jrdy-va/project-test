@@ -13,6 +13,8 @@ This project if git class
 * otro punto
 * más puntos
 * Creado por un equipo de pruebas
+* Incluye ejemplos en win/ linux/ mac
+* Disponible para todos
 
 - Autor: Jordy
 
